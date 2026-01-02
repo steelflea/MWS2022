@@ -11,3 +11,24 @@
 
 #### 4장. 윈도우 서버 2022 설치
 -----------
+> + P109, [윈도우 서버 2022 AVMA 키](https://learn.microsoft.com/ko-kr/windows-server/get-started/automatic-vm-activation?tabs=server2022?wt.mc_id=DT-MVP-4039686)
+> + P131, [WSUS에 대한 파워셸 명령](https://learn.microsoft.com/ko-kr/powershell/module/updateservices/?view=WindowsServer2022-ps?wt.mc_id=DT-MVP-4039686)
+
+#### 5장. IP 주소 체계와 주소 할당 이해하기
+-----------
+> + P168, [RFC 2235 - 홉스의 인터넷 타임라인](http://www.faqs.org/rfcs/rfc2235.html)
+
+#### 6장. DNS 구현
+-----------
+> + P231, [DNS 파워셸 명령](https://learn.microsoft.com/ko-kr/powershell/module/dnsserver/?view=windowsserver2022-ps?wt.mc_id=DT-MVP-4039686)
+
+#### 8장. 액티브 디렉터리 관리
+-----------
+> + P315, [액티브 디렉터리에 대한 파워셸 명령](https://learn.microsoft.com/ko-kr/powershell/module/activedirectory/?view=windowsserver2022-ps?wt.mc_id=DT-MVP-4039686)
+
+#### 9장. DHCP 구성
+-----------
+> + P361, [DHCP에 대한 파워셸 명령](https://learn.microsoft.com/ko-kr/powershell/module/dhcpserver/?view=windowsserver2022-ps?wt.mc_id=DT-MVP-4039686)
+
+#### 10장. 그룹 정책 구축
+-----------
