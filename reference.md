@@ -30,5 +30,24 @@
 -----------
 > + P361, [DHCP에 대한 파워셸 명령](https://learn.microsoft.com/ko-kr/powershell/module/dhcpserver/?view=windowsserver2022-ps?wt.mc_id=DT-MVP-4039686)
 
-#### 10장. 그룹 정책 구축
+#### 11장. 고급 그룹 정책 옵션
 -----------
+> + P426, [gpresult.exe 명령의 전체 스위치 목록](https://learn.microsoft.com/ko-kr/windows-server/administration/windows-commands/gpresult?wt.mc_id=DT-MVP-4039686)
+
+#### 13장. 애저 구성
+-----------
+> + P445, [애저 포털](https://portal.azure.com/)
+
+#### 14장. 마이크로소프트 엔트라 ID
+-----------
+> + P465, [엔트라 도메인 서비스의 기능 FAQ](https://learn.microsoft.com/en-us/entra/identity/domain-services/faqs?wt.mc_id=DT-MVP-4039686)
+> + P472, [마이크로소프트 엔트라 ID에서 사용할 수 있는 역할과 각 역할이 할 수 있는 작업](https://learn.microsoft.com/ko-kr/entra/identity/role-based-access-control/permissions-reference?wt.mc_id=DT-MVP-4039686)
+> + P477, [엔터프라이즈 상태 로밍 구성](https://learn.microsoft.com/ko-kr/entra/identity/devices/enterprise-state-roaming-enable?wt.mc_id=DT-MVP-4039686)
+
+#### 15장. 하이브리드 네트워크 만들기
+-----------
+> + P498, [마이크로소프트 엔트라 커넥트 다운로드](https://www.microsoft.com/en-us/download/details.aspx?id=47594)
+> + P508, [하트블리드 버그](https://heartbleed.com/)
+> + P523, [마이크로소프트 엔트라 커넥트 설정 방법](https://learn.microsoft.com/ko-kr/entra/identity/hybrid/connect/how-to-connect-install-custom?wt.mc_id=DT-MVP-4039686)
+> + P528, [Set-EntraDirSyncFeature 구문](https://learn.microsoft.com/ko-kr/powershell/module/microsoft.entra.directorymanagement/set-entradirsyncfeature?view=entra-powershell?wt.mc_id=DT-MVP-4039686)
+
