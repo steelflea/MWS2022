@@ -37,3 +37,7 @@
 ### 책 내용에서 언급한 기술 문서 링크 목록
 -----------
 > [책에서 언급한 마이크로소프트 기술 문서 링크](https://github.com/steelflea/MWS2022/blob/main/reference.md)
+
+### 정오표 바로가기
+-----------
+> [책 오류 정정](https://github.com/steelflea/MWS2022/blob/main/errata.md)
